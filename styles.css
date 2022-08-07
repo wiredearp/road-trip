@@ -127,7 +127,7 @@ img {
   background-color: blue;
   background: rgb(210,231,232) url('images/sky.png') repeat-x 0 0;
   height: 100vh;
-  height: 100svh;
+  height: 100dvh;
 }
 .section-sky a {
   text-decoration: none;
@@ -151,7 +151,7 @@ img {
 }
 .section-panic {
   height: 100vh;
-  height: 100svh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   align-items: center;
