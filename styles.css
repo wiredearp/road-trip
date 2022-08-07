@@ -100,7 +100,7 @@ figcaption {
 }
 img {
   display: block;
-  max-width: min(800px, 80vw);
+  max-width: min(1000px, 80vw);
 }
 .pin {
   position: absolute;
